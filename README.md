@@ -8,4 +8,5 @@ curl -X GET --header "Accept: application/json" --header "Authorization: Bearer 
 Data by Deutsche Bahn / DB Station&Service AG (CC BY 4.0)
 
 [1] https://developer.deutschebahn.com/store/apis/info?name=StaDa-Station_Data&version=v2&provider=DBOpenData
+
 [2] https://data.deutschebahn.com/dataset/data-haltestellen
